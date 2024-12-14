@@ -1,4 +1,4 @@
-# minimal-reproduction-template
+# 25557
 
 First, read the [Renovate minimal reproduction instructions](https://github.com/renovatebot/renovate/blob/main/docs/development/minimal-reproductions.md).
 
@@ -6,12 +6,12 @@ Then replace the current `h1` with the Renovate Issue/Discussion number.
 
 ## Current behavior
 
-Explain the current behavior here.
+Updates to the bazel version and the MODULE.bazel do not update the MODULE.bazel.lock
 
 ## Expected behavior
 
-Explain the expected behavior here.
+Updates to the bazel version and the MODULE.bazel do update the MODULE.bazel.lock
 
 ## Link to the Renovate issue or Discussion
 
-Put your link to the Renovate issue or Discussion here.
+https://github.com/renovatebot/renovate/issues/25557
