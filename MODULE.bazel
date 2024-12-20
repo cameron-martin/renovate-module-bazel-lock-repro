@@ -1,1 +1,1 @@
-bazel_dep(name = "protobuf", version = "28.3")
+bazel_dep(name = "protobuf", version = "29.2")
